@@ -16,9 +16,10 @@ I am fortunate to be advised by [Prof. Ming Yang](https://scholar.google.com/cit
 You can find my CV here: [Mingyang Jiang's Curriculum Vitae](../assets/Curriculum_Vitae.pdf).
 
 
-## Research
-<h3 style="margin-bottom: 5px;">Motion Planning for Mobile Robots in Confined Spaces</h3>
-<div style="display: flex; justify-content: space-between; align-items: center;">
+<h2 style="margin: 10px 0;">Research</h2>
+
+<h3 style="margin: 5px 0;">Motion Planning for Mobile Robots in Confined Spaces</h3>
+<div style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 5px;">
   <div style="flex: 1; text-align: center; margin: 0 10px;">
     <img src="../assets/deadend.gif" alt="RL-based Parking Path Planning" style="width: 100%; max-width: 300px; height: auto;">
     <p>Parking Planning</p>
@@ -33,8 +34,8 @@ You can find my CV here: [Mingyang Jiang's Curriculum Vitae](../assets/Curriculu
   </div>
 </div>
 
-<h3 style="margin-bottom: 5px;">Integrated Perception and Planning in Dynamic Environment</h3>
-<div style="display: flex; justify-content: space-between; align-items: center;">
+<h3 style="margin: 5px 0;">Integrated Perception and Planning in Dynamic Environment</h3>
+<div style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 5px;">
   <div style="flex: 1; text-align: center; margin: 0 10px;">
     <img src="../assets/taco2.gif" alt="Driving Simulator" style="width: 100%; max-width: 300px; height: auto;">
     <p>Tactics2d: Driving Simulator</p>
@@ -48,4 +49,5 @@ You can find my CV here: [Mingyang Jiang's Curriculum Vitae](../assets/Curriculu
     <p>End-to-End Vehicle Following</p>
   </div>
 </div>
+
 
