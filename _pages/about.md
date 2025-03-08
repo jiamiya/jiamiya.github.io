@@ -17,17 +17,23 @@ You can find my CV here: [Mingyang Jiang's Curriculum Vitae](../assets/Curriculu
 
 
 # Research
-
 ## Motion Planning for Mobile Robots in Confined Spaces
-
-Below is a row showcasing three works under Research Topic 1:
-
-| Work 1                                                 | Work 2                                                 | Work 3                                                 |
-| ------------------------------------------------------ | ------------------------------------------------------ | ------------------------------------------------------ |
-| ![RL-based parking path planning](../assets/deadend.gif) <br> **Parking planning**  | ![Work 2](../assets/escape.gif) <br> **Escape planning**  | ![Work 3](../assets/lidar-ogm.jpg) <br> **Lidar OGM-Based Planner**  |
+<div style="display: flex; justify-content: space-between; align-items: center;">
+  <div style="flex: 1; text-align: center; margin: 0 10px;">
+    <img src="../assets/deadend.gif" alt="RL-based parking path planning" style="width: 100%; max-width: 300px; height: auto;">
+    <p>Parking planning</p>
+  </div>
+  <div style="flex: 1; text-align: center; margin: 0 10px;">
+    <img src="../assets/escape.gif" alt="Escape planning" style="width: 100%; max-width: 300px; height: auto;">
+    <p>Escape planning</p>
+  </div>
+  <div style="flex: 1; text-align: center; margin: 0 10px;">
+    <img src="../assets/lidar-ogm.jpg" alt="Lidar OGM-Based Planner" style="width: 100%; max-width: 300px; height: auto;">
+    <p>Lidar OGM-Based Planner</p>
+  </div>
+</div>
 
 ## Research Topic 2
-
 Below is a row showcasing three works under Research Topic 2:
 
 | Work 1                                                                 | Work 2                                                                 | Work 3                                                                 |
