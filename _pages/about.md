@@ -53,21 +53,21 @@ You can find my CV here: [Mingyang Jiang's Curriculum Vitae](../assets/Curriculu
 ---
 
 ### HOPE: A Reinforcement Learning-based Hybrid Policy Path Planner for Diverse Parking Scenarios  
-**Mingyang Jiang**†,, Yueyuan Li†,, Songan Zhang, Siyuan Chen, Chunxiang Wang, and Ming Yang  
+**Mingyang Jiang**†, Yueyuan Li†, Songan Zhang, Siyuan Chen, Chunxiang Wang, and Ming Yang  
 (Accepted by) IEEE Transactions on Intelligent Transportation Systems (T-ITS), 2025  
 [Paper](https://arxiv.org/abs/2405.20579) | [Video](https://www.youtube.com/watch?v=62w9qhjIuRI) | [Code](https://github.com/jiamiya/HOPE) | [PaperWithCode](https://paperswithcode.com/paper/hope-a-reinforcement-learning-based-hybrid)
 
 ---
 
 ### Embodied Escaping: End-to-End Reinforcement Learning for Robot Navigation in Narrow Environment  
-Han Zheng†,, Jiale Zhang†,, **Mingyang Jiang**, Peiyuan Liu, Danni Liu, Tong Qin, and Ming Yang  
+Han Zheng†, Jiale Zhang†, **Mingyang Jiang**, Peiyuan Liu, Danni Liu, Tong Qin, and Ming Yang  
 (Submitted to) IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), 2025  
 [Paper](https://arxiv.org/abs/2503.03208) | [Video](https://youtu.be/kBaaYWGhNuE)
 
 ---
 
 ### Lidar OGM-Based Hybrid Reinforcement Learning Planner for Autonomous Parking  
-Zhitao Wang†,, Zhe Chen†,, **Mingyang Jiang**, Tong Qin, Ming Yang  
+Zhitao Wang†, Zhe Chen†, **Mingyang Jiang**, Tong Qin, Ming Yang  
 (Accepted by) IEEE International Conference on Robotics and Automation (ICRA), 2025  
 [Paper](https://arxiv.org/abs/2502.18846)
 
@@ -81,7 +81,7 @@ Yueyuan Li, Songan Zhang, **Mingyang Jiang**, Xingyuan Chen, Yeqiang Qian, Chunx
 ---
 
 ### End-to-end Driving in High-Interaction Traffic Scenarios with Reinforcement Learning  
-Yueyuan Li†,, **Mingyang Jiang**†,, Songan Zhang, Wei Yuan, Chunxiang Wang, and Ming Yang  
+Yueyuan Li†, **Mingyang Jiang**†, Songan Zhang, Wei Yuan, Chunxiang Wang, and Ming Yang  
 (Under progress) arXiv preprint arXiv:2410.02253  
 [Paper](https://arxiv.org/abs/2410.02253)
 
