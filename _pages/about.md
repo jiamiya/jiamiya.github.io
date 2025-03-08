@@ -11,7 +11,7 @@ redirect_from:
 
 My name is Mingyang Jiang, and I am a second-year master's student at the School of Electronic Information and Electrical Engineering, Shanghai Jiao Tong University. My research interests include robot learning, motion planning, and autonomous navigation, with a particular focus on integrating learning-based methods into robotic systems. I earned my bachelor's degree in Artificial Intelligence from the same school, graduating strong academic record.
 
-I am fortunate to be advised by [Prof. Ming Yang](https://scholar.google.com/citations?user=0TCYA3YAAAAJ&hl=zh-CN&oi=ao) at the [CyberC3 Intelligent Vehicle Lab](https://cyberc3.sjtu.edu.cn/) (in Chinese). I also collaborate closely with [Prof. Songan Zhang](https://gift.sjtu.edu.cn/zsa_en/main.htm) from the Global Institute of Future Technology, Shanghai Jiao Tong University.
+I am fortunate to be advised by [Prof. Ming Yang](https://scholar.google.com/citations?user=0TCYA3YAAAAJ&hl=zh-CN&oi=ao) at the [CyberC3 Intelligent Vehicle Lab](https://cyberc3.sjtu.edu.cn/) (in Chinese). I also collaborate closely with [Prof. Songan Zhang](https://scholar.google.com/citations?hl=en&user=YnSPFY8AAAAJ) and [Yueyuan Li](https://scholar.google.com/citations?hl=en&user=GcxEMNIAAAAJ), who have provided invaluable guidance in my research. I have also collaborated on research projects with [Prof. Tong Qin](https://scholar.google.com/citations?hl=en&user=TcLL048AAAAJ) and [Prof. Yeqiang Qian](https://scholar.google.com/citations?hl=en&user=CzuDD9AAAAAJ).
 
 You can find my CV here: [Mingyang Jiang's Curriculum Vitae](../assets/Curriculum_Vitae.pdf).
 
