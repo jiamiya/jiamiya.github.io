@@ -36,15 +36,15 @@ You can find my CV here: [Mingyang Jiang's Curriculum Vitae](../assets/Curriculu
 ## Integrated Perception and Planning in Dynamic Environment
 <div style="display: flex; justify-content: space-between; align-items: center;">
   <div style="flex: 1; text-align: center; margin: 0 10px;">
-    <img src="../assets/taco.gif" alt="Driving Simulator" style="width: 100%; max-width: 300px; height: auto;">
-    <p>Driving Simulator</p>
+    <img src="../assets/taco.gif" alt="Driving Simulator" style="width: 100%; max-width: 300px; height: 200px; object-fit: cover;">
+    <p>Tactics2d: Driving Simulator</p>
   </div>
   <div style="flex: 1; text-align: center; margin: 0 10px;">
-    <img src="../assets/ramble2.gif" alt="World-Model-Based Driving" style="width: 100%; max-width: 300px; height: auto;">
+    <img src="../assets/ramble2.gif" alt="World-Model-Based Driving" style="width: 100%; max-width: 300px; height: 200px; object-fit: cover;">
     <p>World-Model-Based Driving</p>
   </div>
   <div style="flex: 1; text-align: center; margin: 0 10px;">
-    <img src="../assets/vehicle-follow.gif" alt="End-to-End Vehicle Following" style="width: 100%; max-width: 300px; height: auto;">
+    <img src="../assets/vehicle-follow.gif" alt="End-to-End Vehicle Following" style="width: 100%; max-width: 300px; height: 200px; object-fit: cover;">
     <p>End-to-End Vehicle Following</p>
   </div>
 </div>
