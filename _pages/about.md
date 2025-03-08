@@ -20,11 +20,11 @@ You can find my CV here: [Mingyang Jiang's Curriculum Vitae](../assets/Curriculu
 ## Motion Planning for Mobile Robots in Confined Spaces
 <div style="display: flex; justify-content: space-between; align-items: center;">
   <div style="flex: 1; text-align: center; margin: 0 10px;">
-    <img src="../assets/deadend.gif" alt="RL-based parking path planning" style="width: 100%; max-width: 300px; height: auto;">
+    <img src="../assets/deadend.gif" alt="RL-based Parking Path Planning" style="width: 100%; max-width: 300px; height: auto;">
     <p>Parking planning</p>
   </div>
   <div style="flex: 1; text-align: center; margin: 0 10px;">
-    <img src="../assets/escape.gif" alt="Escape planning" style="width: 100%; max-width: 300px; height: auto;">
+    <img src="../assets/escape.gif" alt="Escape Planning" style="width: 100%; max-width: 300px; height: auto;">
     <p>Escape planning</p>
   </div>
   <div style="flex: 1; text-align: center; margin: 0 10px;">
@@ -33,10 +33,19 @@ You can find my CV here: [Mingyang Jiang's Curriculum Vitae](../assets/Curriculu
   </div>
 </div>
 
-## Research Topic 2
-Below is a row showcasing three works under Research Topic 2:
-
-| Work 1                                                                 | Work 2                                                                 | Work 3                                                                 |
-| ---------------------------------------------------------------------- | ---------------------------------------------------------------------- | ---------------------------------------------------------------------- |
-| <video controls width="300" src="./path/to/video1.mp4"></video> <br> **Video 1 Title** | <video controls width="300" src="./path/to/video2.mp4"></video> <br> **Video 2 Title** | <video controls width="300" src="./path/to/video3.mp4"></video> <br> **Video 3 Title** |
+## Integrated Perception and Planning in Dynamic Environment
+<div style="display: flex; justify-content: space-between; align-items: center;">
+  <div style="flex: 1; text-align: center; margin: 0 10px;">
+    <img src="../assets/taco.gif" alt="Driving Simulator" style="width: 100%; max-width: 300px; height: auto;">
+    <p>Parking planning</p>
+  </div>
+  <div style="flex: 1; text-align: center; margin: 0 10px;">
+    <img src="../assets/ramble.gif" alt="World-Model-Based Driving" style="width: 100%; max-width: 300px; height: auto;">
+    <p>Escape planning</p>
+  </div>
+  <div style="flex: 1; text-align: center; margin: 0 10px;">
+    <img src="../assets/vehicle-follow.gif" alt="End-to-End Vehicle Following" style="width: 100%; max-width: 300px; height: auto;">
+    <p>Lidar OGM-Based Planner</p>
+  </div>
+</div>
 
