@@ -16,8 +16,8 @@ I am fortunate to be advised by [Prof. Ming Yang](https://scholar.google.com/cit
 You can find my CV here: [Mingyang Jiang's Curriculum Vitae](../assets/Curriculum_Vitae.pdf).
 
 
-# Research
-## Motion Planning for Mobile Robots in Confined Spaces
+## Research
+<h3 style="margin-bottom: 5px;">Motion Planning for Mobile Robots in Confined Spaces</h3>
 <div style="display: flex; justify-content: space-between; align-items: center;">
   <div style="flex: 1; text-align: center; margin: 0 10px;">
     <img src="../assets/deadend.gif" alt="RL-based Parking Path Planning" style="width: 100%; max-width: 300px; height: auto;">
@@ -33,10 +33,10 @@ You can find my CV here: [Mingyang Jiang's Curriculum Vitae](../assets/Curriculu
   </div>
 </div>
 
-## Integrated Perception and Planning in Dynamic Environment
+<h3 style="margin-bottom: 5px;">Integrated Perception and Planning in Dynamic Environment</h3>
 <div style="display: flex; justify-content: space-between; align-items: center;">
   <div style="flex: 1; text-align: center; margin: 0 10px;">
-    <img src="../assets/taco.gif" alt="Driving Simulator" style="width: 100%; max-width: 300px; height: 200px; object-fit: cover;">
+    <img src="../assets/taco2.gif" alt="Driving Simulator" style="width: 100%; max-width: 300px; height: 200px; object-fit: cover;">
     <p>Tactics2d: Driving Simulator</p>
   </div>
   <div style="flex: 1; text-align: center; margin: 0 10px;">
