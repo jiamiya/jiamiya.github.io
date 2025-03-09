@@ -98,15 +98,15 @@ Jiale Zhang, Yeqiang Qian, Tong Qin, **Mingyang Jiang**, Siyuan Chen, and Ming Y
 
   <div style="display: flex; align-items: flex-start; margin-bottom: 20px;">
     <!-- Left: Image -->
-    <div style="flex: 0 0 150px; margin-right: 20px;">
+    <div style="flex: 0 0 200px; margin-right: 20px;">
       <img src="../assets/picture/hope.jpg" alt="HOPE" style="width: 100%; height: auto;">
     </div>
     <!-- Right: Publication Details -->
     <div style="flex: 1;">
-      <h3 style="margin-top: 0;">HOPE: A Reinforcement Learning-based Hybrid Policy Path Planner for Diverse Parking Scenarios</h3>
-      <p><strong>Mingyang Jiang</strong>†, Yueyuan Li†, Songan Zhang, Siyuan Chen, Chunxiang Wang, and Ming Yang</p>
-      <p>(Accepted by) IEEE Transactions on Intelligent Transportation Systems (T-ITS), 2025</p>
-      <p>
+      <h3 style="margin-top: 0; margin-bottom: 10px;">HOPE: A Reinforcement Learning-based Hybrid Policy Path Planner for Diverse Parking Scenarios</h3>
+      <p style="margin: 5px 0;"><strong>Mingyang Jiang</strong>†, Yueyuan Li†, Songan Zhang, Siyuan Chen, Chunxiang Wang, and Ming Yang</p>
+      <p style="margin: 5px 0;">(Accepted by) IEEE Transactions on Intelligent Transportation Systems (T-ITS), 2025</p>
+      <p style="margin: 5px 0;">
         <a href="https://arxiv.org/abs/2405.20579">Paper</a> | 
         <a href="https://www.youtube.com/watch?v=62w9qhjIuRI">Video</a> | 
         <a href="https://github.com/jiamiya/HOPE">Code</a> | 
@@ -118,14 +118,14 @@ Jiale Zhang, Yeqiang Qian, Tong Qin, **Mingyang Jiang**, Siyuan Chen, and Ming Y
   <hr>
 
   <div style="display: flex; align-items: flex-start; margin-bottom: 20px;">
-    <div style="flex: 0 0 150px; margin-right: 20px;">
+    <div style="flex: 0 0 200px; margin-right: 20px;">
       <img src="../assets/picture/escape.jpg" alt="Embodied Escaping" style="width: 100%; height: auto;">
     </div>
     <div style="flex: 1;">
-      <h3 style="margin-top: 0;">Embodied Escaping: End-to-End Reinforcement Learning for Robot Navigation in Narrow Environment</h3>
-      <p>Han Zheng†, Jiale Zhang†, <strong>Mingyang Jiang</strong>, Peiyuan Liu, Danni Liu, Tong Qin, and Ming Yang</p>
-      <p>(Submitted to) IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), 2025</p>
-      <p>
+      <h3 style="margin-top: 0; margin-bottom: 10px;">Embodied Escaping: End-to-End Reinforcement Learning for Robot Navigation in Narrow Environment</h3>
+      <p style="margin: 5px 0;">Han Zheng†, Jiale Zhang†, <strong>Mingyang Jiang</strong>, Peiyuan Liu, Danni Liu, Tong Qin, and Ming Yang</p>
+      <p style="margin: 5px 0;">(Submitted to) IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), 2025</p>
+      <p style="margin: 5px 0;">
         <a href="https://arxiv.org/abs/2503.03208">Paper</a> | 
         <a href="https://youtu.be/kBaaYWGhNuE">Video</a>
       </p>
@@ -135,14 +135,14 @@ Jiale Zhang, Yeqiang Qian, Tong Qin, **Mingyang Jiang**, Siyuan Chen, and Ming Y
   <hr>
 
   <div style="display: flex; align-items: flex-start; margin-bottom: 20px;">
-    <div style="flex: 0 0 150px; margin-right: 20px;">
+    <div style="flex: 0 0 200px; margin-right: 20px;">
       <img src="../assets/picture/ogm.jpg" alt="Lidar OGM-Based Planner" style="width: 100%; height: auto;">
     </div>
     <div style="flex: 1;">
-      <h3 style="margin-top: 0;">Lidar OGM-Based Hybrid Reinforcement Learning Planner for Autonomous Parking</h3>
-      <p>Zhitao Wang†, Zhe Chen†, <strong>Mingyang Jiang</strong>, Tong Qin, Ming Yang</p>
-      <p>(Accepted by) IEEE International Conference on Robotics and Automation (ICRA), 2025</p>
-      <p>
+      <h3 style="margin-top: 0; margin-bottom: 10px;">Lidar OGM-Based Hybrid Reinforcement Learning Planner for Autonomous Parking</h3>
+      <p style="margin: 5px 0;">Zhitao Wang†, Zhe Chen†, <strong>Mingyang Jiang</strong>, Tong Qin, Ming Yang</p>
+      <p style="margin: 5px 0;">(Accepted by) IEEE International Conference on Robotics and Automation (ICRA), 2025</p>
+      <p style="margin: 5px 0;">
         <a href="https://arxiv.org/abs/2502.18846">Paper</a>
       </p>
     </div>
@@ -151,14 +151,14 @@ Jiale Zhang, Yeqiang Qian, Tong Qin, **Mingyang Jiang**, Siyuan Chen, and Ming Y
   <hr>
 
   <div style="display: flex; align-items: flex-start; margin-bottom: 20px;">
-    <div style="flex: 0 0 150px; margin-right: 20px;">
+    <div style="flex: 0 0 200px; margin-right: 20px;">
       <img src="../assets/picture/taco.jpg" alt="Tactics2D" style="width: 100%; height: auto;">
     </div>
     <div style="flex: 1;">
-      <h3 style="margin-top: 0;">Tactics2D: A Highly Modular and Extensible Simulator for Driving Decision-Making</h3>
-      <p>Yueyuan Li, Songan Zhang, <strong>Mingyang Jiang</strong>, Xingyuan Chen, Yeqiang Qian, Chunxiang Wang, Ming Yang</p>
-      <p>(Published at) IEEE Transactions on Intelligent Vehicles (T-IV), 2024</p>
-      <p>
+      <h3 style="margin-top: 0; margin-bottom: 10px;">Tactics2D: A Highly Modular and Extensible Simulator for Driving Decision-Making</h3>
+      <p style="margin: 5px 0;">Yueyuan Li, Songan Zhang, <strong>Mingyang Jiang</strong>, Xingyuan Chen, Yeqiang Qian, Chunxiang Wang, Ming Yang</p>
+      <p style="margin: 5px 0;">(Published at) IEEE Transactions on Intelligent Vehicles (T-IV), 2024</p>
+      <p style="margin: 5px 0;">
         <a href="https://ieeexplore.ieee.org/abstract/document/10561544">Paper</a> | 
         <a href="https://github.com/WoodOxen/tactics2d">Code</a> | 
         <a href="https://tactics2d.readthedocs.io/en/latest/">Website</a>
@@ -169,14 +169,14 @@ Jiale Zhang, Yeqiang Qian, Tong Qin, **Mingyang Jiang**, Siyuan Chen, and Ming Y
   <hr>
 
   <div style="display: flex; align-items: flex-start; margin-bottom: 20px;">
-    <div style="flex: 0 0 150px; margin-right: 20px;">
+    <div style="flex: 0 0 200px; margin-right: 20px;">
       <img src="../assets/picture/ramble.jpg" alt="End-to-end Driving" style="width: 100%; height: auto;">
     </div>
     <div style="flex: 1;">
-      <h3 style="margin-top: 0;">End-to-end Driving in High-Interaction Traffic Scenarios with Reinforcement Learning</h3>
-      <p>Yueyuan Li†, <strong>Mingyang Jiang</strong>†, Songan Zhang, Wei Yuan, Chunxiang Wang, and Ming Yang</p>
-      <p>(Under progress) arXiv preprint arXiv:2410.02253</p>
-      <p>
+      <h3 style="margin-top: 0; margin-bottom: 10px;">End-to-end Driving in High-Interaction Traffic Scenarios with Reinforcement Learning</h3>
+      <p style="margin: 5px 0;">Yueyuan Li†, <strong>Mingyang Jiang</strong>†, Songan Zhang, Wei Yuan, Chunxiang Wang, and Ming Yang</p>
+      <p style="margin: 5px 0;">(Under progress) arXiv preprint arXiv:2410.02253</p>
+      <p style="margin: 5px 0;">
         <a href="https://arxiv.org/abs/2410.02253">Paper</a>
       </p>
     </div>
@@ -185,14 +185,14 @@ Jiale Zhang, Yeqiang Qian, Tong Qin, **Mingyang Jiang**, Siyuan Chen, and Ming Y
   <hr>
 
   <div style="display: flex; align-items: flex-start; margin-bottom: 20px;">
-    <div style="flex: 0 0 150px; margin-right: 20px;">
+    <div style="flex: 0 0 200px; margin-right: 20px;">
       <img src="../assets/picture/e2e.jpg" alt="One Camera Framework" style="width: 100%; height: auto;">
     </div>
     <div style="flex: 1;">
-      <h3 style="margin-top: 0;">All You Need Is One Camera: An End-to-end Autonomous Driving Framework for Vehicle Following</h3>
-      <p>Jiale Zhang, Yeqiang Qian, Tong Qin, <strong>Mingyang Jiang</strong>, Siyuan Chen, and Ming Yang</p>
-      <p>(Under progress)</p>
-      <p>
+      <h3 style="margin-top: 0; margin-bottom: 10px;">All You Need Is One Camera: An End-to-end Autonomous Driving Framework for Vehicle Following</h3>
+      <p style="margin: 5px 0;">Jiale Zhang, Yeqiang Qian, Tong Qin, <strong>Mingyang Jiang</strong>, Siyuan Chen, and Ming Yang</p>
+      <p style="margin: 5px 0;">(Under progress)</p>
+      <p style="margin: 5px 0;">
         <a href="https://www.youtube.com/watch?v=zL1bcVb9kqQ">Video</a>
       </p>
     </div>
